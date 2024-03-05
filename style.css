@@ -1,0 +1,37 @@
+p{
+    font-size:30px;
+    color:black;
+    margin-right:100px;
+}
+
+body{
+    background-color: rgb(128, 184, 247);
+}
+
+
+#Scoring{
+    font-size:50px;
+    margin-left:50px;
+    float:left;
+    margin-top:100px;
+}
+
+#Timing{
+    font-size: 50px;
+    float:right;
+    margin-right:50px;
+    margin-top: 100px;
+}
+
+#show_sketch{
+    float:right;
+}
+
+#Drawn{
+    color:red;
+    font-size:50px;
+}
+
+#Quick{
+    background-color:rgb(97, 49, 216);
+}
